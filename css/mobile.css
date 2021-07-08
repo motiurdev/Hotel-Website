@@ -1,0 +1,81 @@
+
+#navbar{
+    padding-bottom: 10px;
+}
+
+#navbar .logo {
+    float: none;
+    text-align: center;
+}
+
+#navbar ul, #navbar ul li {
+    float: none;
+}
+
+
+#navbar ul li a {
+    padding: 10px;
+}
+
+/* showcase */
+
+.showcase-content {
+    margin-top: 120px;
+}
+
+.showcase-content p {
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+
+/* home-info */
+
+.home-info .home-img {
+    display: none;
+}
+
+.home-info {
+    height: 520px;
+}
+
+.home-info .home-content {
+    width: 100%;
+    float: none;
+}
+
+/* Box */
+.box {
+    float: none;
+    width: 100%;
+}
+
+/* about page */
+
+#about-info .info-left ,
+#about-info .info-right {
+    float: none;
+    width: 100%;
+}
+
+#about-info .info-right {
+    margin-top: 40px;
+}
+
+#about-info .info-right img {
+    width: 85%;
+}
+
+#about-info h1 {
+    text-align: center;
+}
+
+/* contact us */
+
+.contact-form {
+    height: 100%;
+}
+
+#contact-info .box {
+    border-bottom: 1px solid #444;
+}

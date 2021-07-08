@@ -230,9 +230,10 @@ a {
 /* testimonial */
 
 #testimonials {
-    height: 600px;
+    height: 100%;
     background: url(../img/test-bg.jpg) no-repeat center center/cover;
     padding-top: 100px;
+    overflow: hidden;
 }
 
 #testimonials h2 {
